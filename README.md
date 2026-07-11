@@ -105,7 +105,7 @@ python app.py
 
 ### Image Prediction
 
-> Add screenshot after image prediction.
+[> Add screenshot after image prediction.](https://github.com/Abir-2005/AI-Powered-Real-Time-Age-Gender-Prediction/blob/main/output/result2.jpg)
 
 ### Webcam Prediction
 
