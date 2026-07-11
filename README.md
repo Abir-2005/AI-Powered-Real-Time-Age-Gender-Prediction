@@ -109,7 +109,7 @@ python app.py
 
 ### Webcam Prediction
 
-> Add screenshot while webcam detection is running.
+[> Add screenshot while webcam detection is running.](https://github.com/Abir-2005/AI-Powered-Real-Time-Age-Gender-Prediction/blob/main/screenshots/result5.png)
 
 ---
 
