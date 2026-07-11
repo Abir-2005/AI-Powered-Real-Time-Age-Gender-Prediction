@@ -101,7 +101,7 @@ python app.py
 
 ### Home Screen
 
-> Add screenshot inside the **screenshots/** folder.
+[> Add screenshot inside the **screenshots/** folder.](https://github.com/Abir-2005/AI-Powered-Real-Time-Age-Gender-Prediction/tree/main/images)
 
 ### Image Prediction
 
